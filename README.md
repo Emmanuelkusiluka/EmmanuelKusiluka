@@ -1,5 +1,5 @@
 <!-- Your Name -->
-## Hello, Am [EmmanuelKusiluka]([https://www.linkedin.com/in/emmanuel-kusiluka-aa3294209]) 👋
+## Hello, I'm [EmmanuelKusiluka]([https://www.linkedin.com/in/emmanuel-kusiluka-aa3294209]) 👋
 
 <!-- ![Coding](https://github.com/Emmanuelkusiluka/Emmanuel_kussy.github.io/blob/main/20230807_192807.jpg)
 
