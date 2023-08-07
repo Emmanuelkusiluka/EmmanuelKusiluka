@@ -6,7 +6,7 @@
 <!-- About Me -->
 Based in [Longo street](https://www.google.com/maps/place/Longo+Street/@-6.8256116,39.2950284,17z/data=!3m1!4b1!4m6!3m5!1s0x185c4bc4b428bfab:0x6ca9d71d6eff796f!8m2!3d-6.8256116!4d39.2976033!16s%2Fg%2F11q2y0z3w_?entry=ttu)🥷.
 
-<!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEmmanuelKusiluka%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23D4BEBE&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEmmanuelkusiluka&count_bg=%2379C83D&title_bg=%23555555&icon=redhat.svg&icon_color=%23C69B9B&title=Hits%2C+&edge_flat=false)](https://kijanicart.com)
 
 <!-- My Interests -->
 ## 🚀 Interests
