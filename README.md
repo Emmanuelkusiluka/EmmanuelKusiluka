@@ -1,11 +1,10 @@
 <!-- Your Name -->
-## Hello, I'm [EmmanuelKusiluka]([https://www.linkedin.com/in/emmanuel-kusiluka-aa3294209]) 👋
+## [EmmanuelKusiluka]([https://www.linkedin.com/in/emmanuel-kusiluka-aa3294209])
 
 <!-- ![Coding](https://github.com/Emmanuelkusiluka/Emmanuel_kussy.github.io/blob/main/20230807_192807.jpg)
 
 <!-- About Me -->
-Based in [Longo street](https://www.google.com/maps/place/Longo+Street/@-6.8256116,39.2950284,17z/data=!3m1!4b1!4m6!3m5!1s0x185c4bc4b428bfab:0x6ca9d71d6eff796f!8m2!3d-6.8256116!4d39.2976033!16s%2Fg%2F11q2y0z3w_?entry=ttu)🥷. Deeply fascinated by the world of technology and enjoy solving real-world business problems through innovative solutions. Goal is to build applications that make a positive impact on people's lives and enhance their experiences. 
-🚀💻 Let's embark
+Based in [Longo street](https://www.google.com/maps/place/Longo+Street/@-6.8256116,39.2950284,17z/data=!3m1!4b1!4m6!3m5!1s0x185c4bc4b428bfab:0x6ca9d71d6eff796f!8m2!3d-6.8256116!4d39.2976033!16s%2Fg%2F11q2y0z3w_?entry=ttu)🥷.
 
 <!-- My Interests -->
 ## 🚀 Interests
@@ -17,9 +16,9 @@ Based in [Longo street](https://www.google.com/maps/place/Longo+Street/@-6.82561
 - Cloud Computing
 
 <!-- My Projects -->
-## 🛠️ Projects
+<!-- ## 🛠️ Projects
 
-- [Kijanicart](https://kijanicart.com)
+- [Kijanicart](https://kijanicart.com)--!>
 
 <!-- My Skills -->
 ## 💻 Skills
@@ -36,11 +35,11 @@ Based in [Longo street](https://www.google.com/maps/place/Longo+Street/@-6.82561
 
 
 <!-- Let's Connect -->
-## 📫 Let's Connect
+## 📫 How to reach me
 
 - LinkedIn: [Emmanuel Kusiluka](https://www.linkedin.com/in/emmanuel-kusiluka-aa3294209)
 - Twitter: [Emmanuel_kussy](https://twitter.com/Emmanuel_kussy?t=Q28gaud_VNrGJByz-35gYg&s=09)
-<!-- - Email: your.email@example.com
+- Email: emmanuelkusiluka@gmail.com, emmanuelkusiluka@kijanicart.com
 
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
