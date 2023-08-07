@@ -21,9 +21,11 @@ Based in [Longo street](https://www.google.com/maps/place/Longo+Street/@-6.82561
 - Cloud Computing
 
 <!-- My Projects -->
-<!-- ## 🛠️ Projects
+## 🛠️ Projects
 
-- [Kijanicart](https://kijanicart.com)--!>
+- [Kijanicart](https://kijanicart.com)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEmmanuelKusiluka%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23D4BEBE&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!-- My Skills -->
 ## 💻 Skills
