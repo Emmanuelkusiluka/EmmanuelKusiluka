@@ -17,12 +17,11 @@ Based in [Longo street](https://www.google.com/maps/place/Longo+Street/@-6.82561
 - Open-source Projects
 - Cloud Computing
 
-<!-- My Projects -->
+<!-- My Projects
 ## 🛠️ Projects
 
 - [Kijanicart](https://kijanicart.com)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fkijanicart.com&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23D4BEBE&title=kijancart&edge_flat=false)](https://kijanicart.com)
 
 <!-- My Skills -->
 ## 💻 Skills
