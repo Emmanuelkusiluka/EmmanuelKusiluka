@@ -6,10 +6,7 @@
 <!-- About Me -->
 Based in [Longo street](https://www.google.com/maps/place/Longo+Street/@-6.8256116,39.2950284,17z/data=!3m1!4b1!4m6!3m5!1s0x185c4bc4b428bfab:0x6ca9d71d6eff796f!8m2!3d-6.8256116!4d39.2976033!16s%2Fg%2F11q2y0z3w_?entry=ttu)🥷.
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23C10C0C&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fkijancart.com&count_bg=%235EC160&title_bg=%23201F1F&icon=&icon_color=%23E7E7E7&title=Kijanicart&edge_flat=false)](https://hits.seeyoufarm.com)
-
+<!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEmmanuelKusiluka%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23D4BEBE&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!-- My Interests -->
 ## 🚀 Interests
@@ -25,7 +22,7 @@ Based in [Longo street](https://www.google.com/maps/place/Longo+Street/@-6.82561
 
 - [Kijanicart](https://kijanicart.com)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEmmanuelKusiluka%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23D4BEBE&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fkijanicart.com&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23D4BEBE&title=kijancart&edge_flat=false)](https://kijanicart.com)
 
 <!-- My Skills -->
 ## 💻 Skills
