@@ -9,7 +9,7 @@ Based in [Longo street](https://www.google.com/maps/place/Longo+Street/@-6.82561
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEmmanuelkusiluka&count_bg=%2379C83D&title_bg=%23555555&icon=redhat.svg&icon_color=%23C69B9B&title=Hits%2C+&edge_flat=false)](https://github.com/Emmanuelkusiluka)
 
 <!-- My Interests -->
-## 🚀 Interests
+## 🚀 Talks About
 
 - Full-stack Development
 - Mobile App Development
