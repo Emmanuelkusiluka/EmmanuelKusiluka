@@ -1,70 +1,65 @@
-<!-- Your Name -->
-## [EmmanuelKusiluka]([https://www.linkedin.com/in/emmanuel-kusiluka-aa3294209])
 
-<!-- ![Coding](https://github.com/Emmanuelkusiluka/Emmanuel_kussy.github.io/blob/main/20230807_192807.jpg)
+---
 
-<!-- About Me -->
-Based in [Longo street](https://www.google.com/maps/place/Longo+Street/@-6.8256116,39.2950284,17z/data=!3m1!4b1!4m6!3m5!1s0x185c4bc4b428bfab:0x6ca9d71d6eff796f!8m2!3d-6.8256116!4d39.2976033!16s%2Fg%2F11q2y0z3w_?entry=ttu)🥷.
+# Emmanuel Kusiluka | Building the Future, One Line at a Time
 
-<!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEmmanuelkusiluka&count_bg=%2379C83D&title_bg=%23555555&icon=redhat.svg&icon_color=%23C69B9B&title=Hits%2C+&edge_flat=false)](https://github.com/Emmanuelkusiluka)-->
+> "All about turning ideas into systems and systems into something better."
 
-<!-- My Interests -->
-## 🚀 Talks About
+---
 
-- Full-stack Development
-- Mobile App Development
-- Data Science and Machine Learning
-- Open-source Projects
-- Cloud Computing
+## ⚙️ About Me
+A creator, problem-solver, a builder. Driven by the constant urge to take things apart, figure out how they work, and then make them better—faster, smarter and more efficient. Based in [Longo Street](https://www.google.com/maps/place/Longo+Street/@-6.8256116,39.2950284,17z/data=!3m1!4b1!4m6!3m5!1s0x185c4bc4b428bfab:0x6ca9d71d6eff796f!8m2!3d-6.8256116!4d39.2976033!16s%2Fg%2F11q2y0z3w_?entry=ttu), I'm focused on building scalable solutions, optimizing workflows, and automating as much as humanly possible. If there's a problem, there's a system waiting to be built.
 
-<!--
-## 🛠️ Projects
+- Full-stack engineer with a love for cracking the back-end and the front-end in equal measure.
+- Fanatic about machine learning and data-driven decision-making.
+- Obsessed with optimization: cutting out inefficiencies and making things *just work*.
+- Driven by curiosity, powered by caffeine (and Linux servers)☕🐧.
 
-- [Kijanicart](https://kijanicart.com) -->
+---
 
-## 🛠 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-221e05?style=flat-square&logo=rust&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) !
-[PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-&logo=flask&logoColor=white)  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-221e05?style=flat-square&logo=rust&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)  ![NGINX](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white) 
 
 
-## 📫 How to reach me
+---
 
-- LinkedIn: [Emmanuel Kusiluka](https://www.linkedin.com/in/emmanuel-kusiluka-aa3294209)
-- Twitter: [Emmanuel_kussy](https://twitter.com/Emmanuel_kussy?t=Q28gaud_VNrGJByz-35gYg&s=09)
-- Email: emmanuelkusiluka@gmail.com, emmanuelkusiluka@kijanicart.com
+## 🧩 Always Iterating
+Never satisfied with the status quo. I’m about bringing ideas to life and automating the monotonous. Systems should be as fluid as the problems they solve. The real fun starts when things go off-script, and you’re forced to rethink, rebuild, and innovate from scratch.
 
-<!-- GitHub Stats -->
-## 📊 GitHub Stats
+Reach out if you need a:
 
+- System built from zero
+- Workflow automation to save time (and headaches)
+- Tech stack that's future-proof
+- Collaborator who lives on the edge of technology
+
+
+## ⚙️ Let's Build the Next Big Thing
+I don't just work on projects, I obsess over them. If you're in need of someone who can think as deeply about your product as you do, let's keep in touch. Systems, processes, and platforms—I'm always ready for the next challenge.
+
+Let's link up if you're into:  
+- Building resilient, scalable systems.
+- Automating the mundane so you can focus on the exciting.  
+- Getting deep into the tech stack, no matter where the bottlenecks are.
+  
+---
+
+## 📡 Get in Touch
+
+- **LinkedIn**: [Emmanuel Kusiluka](https://www.linkedin.com/in/emmanuel-kusiluka-aa3294209)
+- **Twitter**: [Emmanuel_kussy](https://twitter.com/Emmanuel_kussy?t=Q28gaud_VNrGJByz-35gYg&s=09)
+- **Email**: emmanuelkusiluka@gmail.com | emmanuelkusiluka@kijanicart.com
+
+---
+
+## 🛠 Build. Iterate. Evolve.
+
+Each project is a new opportunity to refine, break, and rebuild better. There’s always a better way to do something, and I’m here for that discovery. Ready to collaborate? Let’s bring the next big thing to life.
+
+---
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmmanuelKusiluka&show_icons=true&theme=radical)
 <!--## 🚀 Contributions-->
 ![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=EmmanuelKusiluka&theme=highcontrast)
-
-<!-- Top Languages
-## 🌟 Top Languages
-
-[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelKusiluka&layout=compact&theme=radical)-->
-
-<!-- Contributions
-## 🤝 Contributions
-
-If you find my work helpful, consider contributing or starring some of my repositories. Contributions are always welcome!
-
-<!-- Thanks for visiting 
-# Thanks for visiting my profile! Feel free to explore my projects and reach out if you'd like to collaborate on something exciting. 😄
-<!--
-**Emmanuelkusiluka/EmmanuelKusiluka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
