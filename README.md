@@ -1,11 +1,7 @@
-
----
-
 # Emmanuel Kusiluka | Building the Future, One Line at a Time
 
 > "All about turning ideas into systems and systems into something better."
 
----
 
 ## ⚙️ About Me
 A creator, problem-solver, a builder. Driven by the constant urge to take things apart, figure out how they work, and then make them better—faster, smarter and more efficient. Based in [Longo Street](https://www.google.com/maps/place/Longo+Street/@-6.8256116,39.2950284,17z/data=!3m1!4b1!4m6!3m5!1s0x185c4bc4b428bfab:0x6ca9d71d6eff796f!8m2!3d-6.8256116!4d39.2976033!16s%2Fg%2F11q2y0z3w_?entry=ttu), I'm focused on building scalable solutions, optimizing workflows, and automating as much as humanly possible. If there's a problem, there's a system waiting to be built.
