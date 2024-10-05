@@ -60,10 +60,6 @@ Each project is a new opportunity to refine, break, and rebuild better. There’
 ![](https://github-readme-streak-stats.herokuapp.com/?user=EmmanuelKusiluka&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelKusiluka&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<p align="left">
-  <a href="https://buymeacoffee.com/emmanuelkusiluka" target="_blank">
-    <img src="./media/buymeacoffe.png" alt="Image">
-  </a>
-</p>
+[![Buy me a coffee](https://www.buymeacoffee.com/assets/img/custom_images/black_img.png)](https://www.buymeacoffee.com/emmanuelkusiluka)
 
 - USDT (TRC20): `TYkP7sLmQbPFsx8Vomz7q5HMpd6KawafKn`
