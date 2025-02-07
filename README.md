@@ -1,4 +1,4 @@
-# Emmanuel Kusiluka | Building the Future, One Line at a Time
+# Emmanuel Kusiluka | Building the Future, One Line at a Time.
 
 > "Am all about turning ideas into systems and systems into something better."
 
