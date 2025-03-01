@@ -1,4 +1,4 @@
-b> "Am all about turning ideas into systems and systems into something better."
+> "Am all about turning ideas into systems and systems into something better."
 
 
 ## ⚙️ About Me
