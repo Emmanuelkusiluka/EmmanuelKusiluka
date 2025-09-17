@@ -53,7 +53,6 @@ Let's link up if you're into:
 Each project is a new opportunity to refine, break, and rebuild better. There’s always a better way to do something, and I’m here for that discovery. Ready to collaborate? Let’s bring the next big thing to life.
 
 ---
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmmanuelKusiluka&show_icons=true&theme=radical)
 <!--## 🚀 Contributions-->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=EmmanuelKusiluka&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelKusiluka&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
