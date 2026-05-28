@@ -1,28 +1,33 @@
-> "Am all about turning ideas into systems and systems into something better."
+# Hey, I'm Kusi 👋
 
-
-## ⚙️ About Me
-A creator, problem-solver, a builder. Driven by the constant urge to take things apart, figure out how they work, and then make them better—faster, smarter and more efficient. Based in [127.0.0.1](https://www.kijanicart.com), I'm focused on building scalable solutions, optimizing workflows, and automating as much as humanly possible. If there's a problem, there's a system waiting to be built.
-
-- Full-stack engineer with a love for cracking the back-end and the front-end in equal measure.
-- Fanatic about machine learning and data-driven decision-making.
-- Obsessed with optimization: cutting out inefficiencies and making things *just work*.
-- Driven by curiosity, powered by caffeine (and Linux servers)☕🐧.
-
----
+Full-stack developer focused on building software that's clean, 
+scalable, and ready for production.
 
 ## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-&logo=flask&logoColor=white)  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)  ![NGINX](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white) 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+**Backend** → ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) · ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) · ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-&logo=flask&logoColor=white)· ![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-092E20?style=flat-square&logo=django&logoColor=white) · ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ·
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) 
+
+**Frontend** → ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) · 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+ · ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) · ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  · ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)  
+ 
+**Tools** → ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  · ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) · ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) · ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+ · ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+ · ![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=flat-square&logo=jetbrains&logoColor=white)
 
 
----
+## 🔨 What I'm building
 
-## 🧩 Always Iterating
-Never satisfied with the status quo. I’m about bringing ideas to life and automating the monotonous. Systems should be as fluid as the problems they solve. The real fun starts when things go off-script, and you’re forced to rethink, rebuild, and innovate from scratch.
+- **Kijanicart Analytics** — Agribusiness analytics platform 
+  for agribusinesses. Django REST + React. Currently onboarding first clients.
+
+## 📫 Work with me
+
+Available for freelance projects — web apps, APIs, mobile, and existing 
+codebases that need rescuing.
+
+→ [Upwork](your-upwork-link) · [LinkedIn](your-linkedin) · emmanuelkusiluka@gmail.com
 
 Reach out if you need a:
 
@@ -30,23 +35,16 @@ Reach out if you need a:
 - Workflow automation to save time (and headaches)
 - Collaborator who lives on the edge of technology
 
+___
 
 ## ⚙️ Let's Build the Next Big Thing
-I don't just work on projects, I obsess over them. If you're in need of someone who can think as deeply about your product as you do, let's keep in touch. Systems, processes, and platforms—I'm always ready for the next challenge.
+If you're in need of someone who can think as deeply about your product as you do, let's keep in touch. Systems, processes, and platforms I'm always ready for the next challenge.
 
 Let's link up if you're into:  
 - Building resilient, scalable systems.
 - Automating the mundane so you can focus on the exciting.  
 - Getting deep into the tech stack, no matter where the bottlenecks are.
   
----
-
-## 📡 Get in Touch
-
-- **LinkedIn**: [Emmanuel Kusiluka](https://www.linkedin.com/in/emmanuel-kusiluka-aa3294209)
-- **Twitter**: [Emmanuel_kussy](https://twitter.com/Emmanuel_kussy?t=Q28gaud_VNrGJByz-35gYg&s=09)
-- **Email**: emmanuelkusiluka@gmail.com | emmanuel@buildwithkusi.tech
-
 ---
 
 ## 🛠 Build. Iterate. Evolve.
