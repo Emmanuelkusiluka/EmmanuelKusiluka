@@ -20,7 +20,7 @@ scalable, and ready for production.
 ## 🔨 What I'm building
 
 - **Kijanicart Analytics** — Agribusiness analytics platform 
-  for agribusinesses. Django REST + React. Currently onboarding first clients.
+  for agribusinesses. Currently onboarding first clients.
 
 ## 📫 Work with me
 
