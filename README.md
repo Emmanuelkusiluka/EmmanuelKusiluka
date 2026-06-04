@@ -19,7 +19,7 @@ scalable, and ready for production.
 
 ## 🔨 What I'm building
 
-- **Kijanicart Analytics** — Agribusiness analytics platform 
+- **[Kijanicart Analytics](https://analytics.kijanicart.com/)** — Agribusiness analytics platform 
   for agribusinesses. Currently onboarding first clients.
 
 ## 📫 Work with me
@@ -27,7 +27,7 @@ scalable, and ready for production.
 Available for freelance projects — web apps, APIs, mobile, and existing 
 codebases that need rescuing.
 
-→ [Upwork](your-upwork-link) · [LinkedIn](your-linkedin) · emmanuelkusiluka@gmail.com
+→ [Upwork](your-upwork-link) · [LinkedIn](https://www.linkedin.com/in/emmanuel-kusiluka-aa3294209?utm_source=share_via&utm_content=profile&utm_medium=member_android) · emmanuelkusiluka@gmail.com
 
 Reach out if you need a:
 
