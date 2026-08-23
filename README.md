@@ -1,6 +1,6 @@
 # Hey, I'm Kusi 👋
 
-Full-stack developer focused on building software that's clean, 
+Full-stack Software Engineer focused on building software that's clean, 
 scalable, and ready for production.
 
 ## 🛠️ Tech Stack
